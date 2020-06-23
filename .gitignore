@@ -2,7 +2,6 @@
 ./idea
 package-lock.json
 yarn.lock
-src/components/MapComponent/
 # dependencies
 /node_modules
 /.pnp
